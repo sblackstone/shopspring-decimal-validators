@@ -1,4 +1,4 @@
-Adds decimal validators to github.com/go-playground/validator for github.com/shopspring/decimal
+Adds decimal validators to `github.com/go-playground/validator` for `github.com/shopspring/decimal`
 
 Usage: 
 
